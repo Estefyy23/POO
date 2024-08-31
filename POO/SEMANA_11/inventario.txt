@@ -1,19 +1,19 @@
 [
     {
         "id_producto": "1",
-        "nombre": "Carne",
+        "nombre": "Gorra",
         "cantidad": 5,
-        "precio": 19.0
+        "precio": 5.0
     },
     {
         "id_producto": "2",
-        "nombre": "Pollo",
+        "nombre": "Carro",
         "cantidad": 2,
         "precio": 10.0
     },
     {
         "id_producto": "3",
-        "nombre": "Agua",
+        "nombre": "Tomates",
         "cantidad": 2,
         "precio": 3.0
     }
