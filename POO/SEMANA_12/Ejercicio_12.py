@@ -145,7 +145,7 @@ def menu():
     biblioteca = Biblioteca()
 
     while True:
-        print("\n--- Menú de Biblioteca de Johnny Grefa ---")
+        print("\n--- Menú de Biblioteca de Esteny Toala ---")
         print("1. Añadir libro")
         print("2. Quitar libro")
         print("3. Registrar usuario")
